@@ -1,4 +1,4 @@
-### Hi there 👋
+### سڵاو بەخێربێیت 👋
 
 <!--
 **Neo-koy/Neo-koy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
